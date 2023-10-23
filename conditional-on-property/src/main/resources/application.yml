@@ -1,0 +1,2 @@
+controllers:
+  enable: ${ENABLE_CONTROLLERS:false}
