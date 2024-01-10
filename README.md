@@ -4,3 +4,4 @@ This is my personal repository that I use to compile my knowledge learned about 
 
 ## Spring
 - [Conditional On Property](https://github.com/rodrigoosoares/knowledge/tree/main/conditional-on-property)
+- [Pageable Endpoint](https://github.com/rodrigoosoares/knowledge/tree/main/pageable-endpoint)
